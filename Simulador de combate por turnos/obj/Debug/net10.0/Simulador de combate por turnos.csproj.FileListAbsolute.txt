@@ -1,0 +1,15 @@
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\bin\Debug\net10.0\Simulador de combate por turnos.exe
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\bin\Debug\net10.0\Simulador de combate por turnos.deps.json
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\bin\Debug\net10.0\Simulador de combate por turnos.runtimeconfig.json
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\bin\Debug\net10.0\Simulador de combate por turnos.dll
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\bin\Debug\net10.0\Simulador de combate por turnos.pdb
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.AssemblyInfoInputs.cache
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.AssemblyInfo.cs
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.csproj.CoreCompileInputs.cache
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.dll
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\refint\Simulador de combate por turnos.dll
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.pdb
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulador de combate por turnos.genruntimeconfig.cache
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\ref\Simulador de combate por turnos.dll
+C:\Programación UTN\Programación II\POO y la lógica de programación\Simulador de combate por turnos\obj\Debug\net10.0\Simulado.2E5448A5.Up2Date
